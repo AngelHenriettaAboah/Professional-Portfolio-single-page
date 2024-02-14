@@ -1,5 +1,5 @@
 # Professional-Portfolio-single-page
-This is a single page website with information about my education and career as a computer Engineer/Frontend Developer. A project built as a homework for my course at Hack Your Future Denmark.
+This is a single page website with information about my education and career as a computer Engineer/Frontend Developer. A project built as a homework for my course at Hack Your Future Denmark. Below are list of contents which are essential to the outlook of the website.
  2 files: .html and .css
  a navigation bar leading to different parts of the single-page website
  a header element with your name and title
